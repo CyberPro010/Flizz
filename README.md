@@ -11,3 +11,8 @@ sudo apt install python
 pip install -r requirements.txt
 
 python main.py
+
+
+**IMPORTANT**
+
+If it keep deauthenticating wifi even after it is stopped try putting your wifi adapter to managed mode again or replug your wifi adapter or reboot
