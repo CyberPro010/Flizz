@@ -11,7 +11,7 @@ import psutil
 colorama.init()
 
 # Create the ASCII art text
-project_name = "F-L IZZ By SD The Geek beta"
+project_name = "F-L IZZ By SD The Geek - beta"
 ascii_art = pyfiglet.figlet_format(project_name, font="mini")
 
 current_process = None  # Global variable to track the subprocess
