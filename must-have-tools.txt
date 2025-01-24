@@ -1,0 +1,3 @@
+1st you need to get mdk3/md4
+2nd you need python
+3rd don't forget to install required python packages do it by "pip install -r requirements.txt"
