@@ -1,0 +1,7 @@
+faker
+thread
+scapy
+colorama
+pyfiglet
+argparse
+keyboard
