@@ -4,7 +4,7 @@ A sweet wrapper for termux/linux/windows to pentest wifi networks and i do not t
 sudo pkg update && pkg upgrade
 sudo apt update && apt upgrade
 
-sudo apt install mdk4/mdk3
+sudo apt install mdk4
 
 sudo apt install python
 
